@@ -8,7 +8,7 @@ Building scalable, user-focused web applications and delivering modern web exper
 📱 +234 708 100 4729 / +234 816 173 2643  
 
 💻 Portfolio: [my-portfolio](https://my-portfolio-opal-alpha-84.vercel.app/)  
-🐙 GitHub: [Banks-code08](https://github.com/Banks-code08)  
+🐙 GitHub: [Banks-code8](https://github.com/Banks-code8)  
 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/banks-engineering-tech-services)
 
 ---
