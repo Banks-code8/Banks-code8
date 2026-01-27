@@ -1,20 +1,20 @@
 # Hi, I'm Bankole Samuel Boluwatife 👋
 
-**Frontend Developer | Open to Global and On-site Roles**  
+**Software Developer | Open to Global and On-site Roles**  
 Building scalable, user-focused web applications and delivering modern web experiences.  
 
 📍 Nigeria  
 📧 [banksengineeringtechservices@gmail.com](mailto:banksengineeringtechservices@gmail.com)  
 📱 +234 708 100 4729 / +234 816 173 2643  
 
-💻 Portfolio: [my-portfolio](https://my-portfolio-opal-alpha-84.vercel.app/)  
+💻 Portfolio: [my-portfolio](https://banks-portfolio.vercel.app/)  
 🐙 GitHub: [Banks-code8](https://github.com/Banks-code8)  
 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/banks-engineering-tech-services)
 
 ---
 
 ## About Me
-I am a **Frontend Developer** passionate about building modern, scalable, and visually engaging web applications. My focus is on creating responsive, intuitive user interfaces with reusable components and seamless API integrations. I thrive in collaborative environments, delivering solutions that drive business value and improve user experiences.
+I am a **Software Developer** passionate about building modern, scalable, and visually engaging web applications. My focus is on creating responsive, intuitive user interfaces with reusable components and seamless API integrations. I thrive in collaborative environments, delivering solutions that drive business value and improve user experiences.
 
 I enjoy solving complex problems, optimizing web performance, and continuously learning new technologies to stay ahead in the fast-evolving web ecosystem.
 
@@ -54,13 +54,6 @@ I enjoy solving complex problems, optimizing web performance, and continuously l
 
 ---
 
-## Notable Projects
-
-### **CnxT Eco Platform — External Project**
-- Designed and implemented UI architecture and reusable components  
-- Developed navigation flows and integrated REST APIs  
-- Optimized frontend performance for scalability  
-**Tech:** Next.js, React, Tailwind CSS, REST APIs  
 
 ### **Tinqlab Products (Internal)**
 - Tinqlab Platform — UI & Layouts  
@@ -69,7 +62,7 @@ I enjoy solving complex problems, optimizing web performance, and continuously l
 
 ### **Portfolio Website**
 - Personal website showcasing projects, technical skills, and professional experience  
-- Live: [Portfolio](https://my-portfolio-opal-alpha-84.vercel.app/)  
+- Live: [Portfolio](https://banks-portfolio.vercel.app/)  
 **Tech:** Next.js, Tailwind, Vercel  
 
 ### **GitHub Repositories**
@@ -87,7 +80,7 @@ I enjoy solving complex problems, optimizing web performance, and continuously l
 ---
 
 ## Availability
-Open to global and on-site Frontend Developer and contract roles.  
+Open to global and on-site Software Developer and contract roles.  
 
 ---
 
