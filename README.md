@@ -45,12 +45,7 @@ I enjoy solving complex problems, optimizing web performance, and continuously l
 - Deliver **scalable and responsive web applications** tailored to business needs  
 - Strong focus on **UI/UX, performance, and code quality**  
 - Experienced with **remote collaboration and team workflows**  
-- Open to **contract and full-time frontend development roles**  
-
----
-
-## Availability
-Open to global and on-site Software Developer and contract roles.  
+- Open to **contract and full-time frontend development roles**   
 
 ---
 
