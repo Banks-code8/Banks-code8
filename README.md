@@ -40,16 +40,6 @@ I enjoy solving complex problems, optimizing web performance, and continuously l
 ---
  
 
-### **Portfolio Website**
-- Personal website showcasing projects, technical skills, and professional experience  
-- Live: [Portfolio](https://banks-portfolio.vercel.app/)  
-**Tech:** Next.js, Tailwind, Vercel  
-
-### **GitHub Repositories**
-- Collection of code samples and active projects demonstrating technical expertise  
-- [GitHub Profile](https://github.com/Banks-code08)  
-
----
 
 ## Why Work With Me
 - Deliver **scalable and responsive web applications** tailored to business needs  
