@@ -38,27 +38,7 @@ I enjoy solving complex problems, optimizing web performance, and continuously l
 - Debugging, Code Reviews, and Agile workflows  
 
 ---
-
-## Experience
-
-**Tinqlab — Remote**  
-*Frontend Developer (June 2024 – Present)*  
-*Frontend Intern (March 2024 – May 2024)*  
-
-- Built and maintained production-ready UI components using React and Next.js  
-- Developed responsive dashboards and user interfaces with Tailwind CSS  
-- Integrated frontend with REST APIs and tested endpoints using Postman  
-- Collaborated with team members using Git/GitHub version control workflows  
-- Contributed to product development, delivering scalable solutions for Tinqlab and Maskhr platforms  
-- Ensured consistent UI/UX standards across projects  
-
----
-
-
-### **Tinqlab Products (Internal)**
-- Tinqlab Platform — UI & Layouts  
-- Maskhr — User Flows & API Integration  
-**Tech:** Next.js, Tailwind, Git, Postman  
+ 
 
 ### **Portfolio Website**
 - Personal website showcasing projects, technical skills, and professional experience  
@@ -84,6 +64,3 @@ Open to global and on-site Software Developer and contract roles.
 
 ---
 
-## Let’s Connect
-I’m always excited to collaborate on innovative projects or discuss potential opportunities.  
-Reach out via email or connect on LinkedIn to get started!  
