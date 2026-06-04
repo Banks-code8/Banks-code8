@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **B A N K S**
 
-### **Production-Level Software Engineer | Senior Developer**
+### **Software Engineer **
 
 I build **real-world, production-ready applications** by transforming business ideas into structured, scalable systems.
 
@@ -54,56 +54,6 @@ I approach software development as an **ecosystem** — where components, servic
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
 ![Microservices](https://img.shields.io/badge/Microservices-111111?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6B00?style=for-the-badge)
-
----
-
-# ⚙️ Production Integrations
-
-* 💳 Stripe & Paystack Payment Systems
-* 🚚 Delivery & Logistics APIs
-* 📧 SendGrid & Nodemailer Email Services
-* 📢 Bulletin & Announcement Systems
-* 🔐 Authentication & User Management
-* ☁️ Deployment & Infrastructure Pipelines
-
----
-
-# 🧠 Engineering Capabilities
-
-### System Engineering
-
-* Product System Architecture
-  *(Idea → Business Logic → App Logic → System Design)*
-
-* Scalable Component Systems
-
-* Production-Ready Backend Design
-
-* Technical Documentation & White Papers
-
-* Client Collaboration & Technical Planning
-
-### Production Engineering
-
-* Hosting & Infrastructure Planning
-* CI/CD Workflow Engineering
-* Deployment Pipelines
-* Microservice Planning
-* Production Optimization
-* Performance-Oriented Development
-
----
-
-# 🚀 Current Focus
-
-Building **production-grade platforms** that scale into **multi-product ecosystems** while maintaining:
-
-* ⚡ Performance
-* 🧩 Extensibility
-* 🛠 Maintainability
-* 📈 Scalability
-* 🔒 Security
-* 🚀 Production Reliability
 
 ---
 
